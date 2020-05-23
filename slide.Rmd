@@ -1063,6 +1063,6 @@ datlist %>%
 
 ## 本資料について
 - revealjs パッケージで作りました。
-- 以下の URL で公開しています。 <br> https://ymattu.github.io/TokyoR84/slide.html#/
+- 以下の URL で公開しています。 <br> https://ymattu.github.io/TokyoR85/slide.html#/
 
 ## Enjoy! {#enjoy}
